@@ -16,7 +16,7 @@ Identify the Internal IP
 
 SSH
 
-```ssh <container-ip>```
+```ssh root@<container-ip>```
 
 **Username:** root
 
